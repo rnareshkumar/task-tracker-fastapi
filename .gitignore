@@ -1,0 +1,110 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+fastapienv/
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pyenv
+.python-version
+
+# pip-tools
+*.txt
+
+# Pydantic schema cache (if using pydantic v2+)
+__pydantic_schema_cache__/
+
+# FastAPI auto-generated docs (if exported)
+docs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+*.swp
+
+# mypy / pylint / flake8
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.pylint.d/
+
+# dotenv
+.env
+.env.*
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+*.db
+*.sql
+
+# Other
+.DS_Store
+Thumbs.db
+
+
+# Python cache
+__pycache__/
+
+
